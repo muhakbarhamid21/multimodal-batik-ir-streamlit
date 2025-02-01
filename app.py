@@ -14,7 +14,7 @@ if st.button("Klik aku untuk kejutan 🎁"):
 
 # Gambar lucu
 st.image(
-    "https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxiNnhtc2cxYWEzOGplc3lwMWxmeWg2em96b3Y0ZmZ4eXdhNWJwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1OrIIOIcRTDaNidc5p/giphy.gif",
     caption="Kucing yang super antusias dengan proyek ini! 🐱",
     use_column_width=True,
 )
